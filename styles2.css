@@ -3,7 +3,7 @@ body {
   background-color: orange;
 }
 h1 {
-  color: blue;
+  color: white;
   text-align: center; 
   font-size: 20px;
   border-styles: solid;
@@ -12,10 +12,10 @@ h1 {
 p {
   font-family: verdana;
   font-size: 12px;
-  color: green; 
+  color: white; 
 }
 h2 {
-  color: blue;
+  color: white;
   text-align: center;
   font-size: 20px;
   border-styles: solid;
