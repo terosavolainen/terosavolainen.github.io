@@ -13,10 +13,16 @@ p {
   font-family: verdana;
   font-size: 12px;
   color: white; 
+  border-radius: 25px
+    background: #73AD21;
+  padding: 20px
+    width: 150px
+    heigth: 150px
 }
 h2 {
   color: white;
   text-align: center;
   font-size: 20px;
   border-styles: solid;
+  border-radius: 15px;
 }
