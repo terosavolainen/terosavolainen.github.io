@@ -5,7 +5,9 @@ margin-left: auto;
 margin-right: auto;
 }
 
-
+#section {
+  background-color: green;
+}
 h1 {
   color: white;
   text-align: center; 
@@ -18,8 +20,5 @@ p {
   color: white;
  
 }
-style {
-  #section {
-    background-color: blue;
-  }
+
   
