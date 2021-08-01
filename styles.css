@@ -12,13 +12,13 @@ margin-right: auto;
       color: white;
     }
     
-    #nav {
+#nav {
       float: left;
       width: 100%;
       background: #9fcdd1;
       padding: 15px;
     }
-    #footer {
+#footer {
       float: left;
       width: 100%;
       background: #9fcdd1
@@ -29,24 +29,23 @@ margin-right: auto;
   background: orange;
     }
      
-    #section {
+#section {
       float: left;
       padding: 20px;
       background: blue;
     }
-    #aside {
+
+#aside {
       float: right;
       padding: 20px;
       background: green;
     }
 
-
 #myDiv {
-      
       text-align: justify;
       width: 70%;
-
 }
+
 h1 {
   color: white;
   text-align: center; 
