@@ -17,7 +17,8 @@ margin-right: auto;
 #footer {
       float: left;
       width: 100%;
-      background: #9fcdd1
+      background: #9fcdd1;
+      clear: both;
     }
 
 #article {
