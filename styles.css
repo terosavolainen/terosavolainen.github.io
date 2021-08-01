@@ -30,12 +30,14 @@ margin-right: auto;
       float: left;
       padding: 20px;
       background: blue;
+  color: white;
     }
 
 #aside {
       float: right;
       padding: 20px;
       background: green;
+  color: white;
     }
 
 #myDiv {
