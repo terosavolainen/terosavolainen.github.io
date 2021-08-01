@@ -9,9 +9,13 @@ margin-right: auto;
 h1 {
   color: white;
   text-align: center; 
-  font-size: 20px;
+  font-size: 45px;
 }
-
+h2 {
+  color: white;
+  font-size: 30px
+}
+  
 p {
   font-family: verdana;
   font-size: 12px;
