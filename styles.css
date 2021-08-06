@@ -76,11 +76,10 @@ section {
     color: white;
     }
 
-#aside {
-      float: right;
-      padding: 20px;
-      background: green;
-      color: white;
+
+  .myDiv {
+  border: 2px dotted yellow; 
+  width: 100px;
     }
 
 
@@ -103,11 +102,6 @@ p {
   color: white;
 }
 
-
-  .myDiv {
-  border: 2px dotted yellow; 
-  width: 100px;
-    }
     
     
  
