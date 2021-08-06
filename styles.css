@@ -47,7 +47,11 @@ body {
       position: relative;
     }
 
-
+figcaption {
+      color: white;
+      font-family: verdena;
+      }
+      
 
 
 .article {
