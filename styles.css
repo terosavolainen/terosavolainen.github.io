@@ -60,11 +60,12 @@ figcaption {
       }
       
 
-
-.article {
+article {
   padding: 20px;
   background: orange;
   float:left;
+  width:75 %;
+  color: white;
     }
      
 section {
