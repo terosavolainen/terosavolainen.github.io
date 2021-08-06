@@ -50,7 +50,7 @@ body {
 
 
 
-article {
+.article {
   padding: 20px;
   background: orange;
   float:left;
@@ -61,7 +61,7 @@ section {
     padding: 20px;
     background: blue;
     width:75%;
-  color: white;
+    color: white;
     }
 
 #aside {
@@ -86,10 +86,6 @@ p {
  
 }
 
-  
-  .listat {
-  color: white;
-  }
 
   .myDiv {
   border: 2px dotted yellow; 
