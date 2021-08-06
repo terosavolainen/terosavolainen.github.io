@@ -111,6 +111,7 @@ p {
   .listat {
   color: white;
   }
+
   div.myDiv {
   border: 2px dotted yellow; 
   width: 100px;
@@ -118,7 +119,4 @@ p {
     }
     
     
-  .hv {
-  color: white;
-  font-size: 20px;
-    }  
+ 
