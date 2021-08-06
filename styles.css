@@ -1,19 +1,53 @@
+*{
+    box-sizing: border-box;
+    }
+
+
 body { 
   background-color: gray; 
   width: 90%;
-margin-left: auto;
-margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:arial;
 }
+
 #header {
-      background-color: #9fcdd1;
-      padding: 20px;
+      background-color: black;
+      padding: 30px;
       text-align: center;
-      font-size: 35px;
+      font-size: 25px;
       color: white;
     }
-    
 
+ a:hover {
+      color: red;
     }
+    
+ nav {
+      float: left;
+      width: 15%;
+      height: 480px;
+      background: gray;
+      padding: 15px;
+    }
+    
+ nav ul {
+      list-style-type: none;
+    }
+ nav a {
+      text-decoration: none;
+    }  
+
+ footer {
+      background-color: black;
+      clear: both;
+      font-size: 17px;
+      color: white;
+      text-align: center;
+      position: relative;
+    }
+
+
 #footer {
       float: left;
       width: 100%;
@@ -32,6 +66,15 @@ margin-right: auto;
       background: blue;
   color: white;
     }
+
+   section {
+      background: orange;
+      float: left;
+      width: 85%;
+      height: 480px;
+      padding-left: 20px;
+    }
+
 
 #aside {
       float: right;
@@ -58,4 +101,24 @@ p {
  
 }
 
-  
+    
+    div {
+      float: left;
+      padding: 30px;
+    }
+    
+   
+  .listat {
+  color: white;
+  }
+  div.myDiv {
+  border: 2px dotted yellow; 
+  width: 100px;
+  height: 100px;
+    }
+    
+    
+  .hv {
+  color: white;
+  font-size: 20px;
+    }  
