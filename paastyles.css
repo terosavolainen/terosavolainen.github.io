@@ -24,6 +24,7 @@
       width: 15%;
       height: 480px;
       background: gray;
+        font-color: white;
       padding: 15px;
     }
     
@@ -35,7 +36,7 @@
     }
   
     section {
-      background: DodgerBlue;
+      background: orange;
       float: left;
       width: 85%;
       height: 480px;
