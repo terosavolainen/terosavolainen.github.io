@@ -60,7 +60,16 @@ figcaption {
       color: white;
       font-family: verdena;
       }
-      
+
+ section {
+     background: white;
+     float:left;
+     width:75%;
+     color: black;
+     padding: 20px;
+     margin: 5px;
+}
+
 
 #tulevaisuus {
   padding: 20px;
