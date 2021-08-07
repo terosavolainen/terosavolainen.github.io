@@ -52,10 +52,10 @@
     }
 
 .koirakuva {
-    position: absolut;
-    top: 100px;
     width: 10%;
     float: right;
+    padding: 10px;
+    margin: 15px;
 }
 .poski {
     position: absolut;
