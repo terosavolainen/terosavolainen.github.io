@@ -50,3 +50,12 @@
       text-align: center;
       position: relative;
     }
+
+.koirakuva {
+    width:100px;
+    float: right;
+}
+.poski {
+    width:100px;
+    float: right;
+}
