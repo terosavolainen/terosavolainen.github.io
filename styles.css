@@ -59,7 +59,7 @@ figcaption {
       }
       
 
-article {
+#tulevaisuus {
   padding: 20px;
   background: orange;
   float:left;
@@ -67,7 +67,7 @@ article {
   color: white;
     }
      
-section {
+#haaveet {
     float: left;
     padding: 20px;
     background: lightblue;
