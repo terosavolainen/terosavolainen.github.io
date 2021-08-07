@@ -30,6 +30,7 @@
     
     #nav ul {
       list-style-type: none;
+        font-color: white;
     }
     #nav a {
       text-decoration: none;
