@@ -15,10 +15,7 @@
       font-size: 25px;
       color: white;
     }
-    a:hover {
-      color: red;
-    }
-    
+
     #nav {
       float: left;
       width: 15%;
