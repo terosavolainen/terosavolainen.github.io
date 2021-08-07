@@ -51,11 +51,11 @@
       position: relative;
     }
 
-.koirakuvat {
-    width:100px;
+.koirakuva {
+    width: 50%;
     float: right;
 }
 .poski {
-    width:100px;
+    width: 50%;
     float: right;
 }
