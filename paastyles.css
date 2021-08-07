@@ -52,6 +52,8 @@
     }
 
 .koirakuva {
+    position: absolut;
+    top: 300px;
     width: 10%;
     float: right;
 }
