@@ -78,7 +78,7 @@ figcaption {
     color: white;
     }
 
-  .myDiv {
+  #myDiv {
   border: 2px dotted yellow; 
   width: 25%;
   float:left;
