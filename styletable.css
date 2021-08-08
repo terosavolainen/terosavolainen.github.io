@@ -1,0 +1,28 @@
+body {
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:peachpuff;
+}
+table,th,td {
+  border: 1px dotted black;
+  border-collapse: collapse;
+}
+th, td {
+  padding:5px;
+  margin:8px;
+  text-align: center;
+}
+#tuoli {
+  background-color:ghostwhite;
+}
+caption {
+  text-align: left;
+  font-weight: bold;
+}
+.kentta {
+  width:40%;
+  margin:9px;
+  padding:10px;
+  box-sizing: border-box;
+}
