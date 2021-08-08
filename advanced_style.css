@@ -1,1 +1,35 @@
+#box {
+  border: 1px solid;
+  padding: 15px;
+  box-shadow: 5px 10px
+}
+
+#teksti {
+  text-shadow: 3px 3px orange;
+}
+
+#tausta {
+  background:url(https://cdn.pixabay.com/photo/2021/08/02/16/22/beach-6517214_1280.jpg);
+  border: 5px solid black;
+  padding: 15px;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: black;
+  margin: 20px;
+  transition: color 1s;
+}
+
+a:hover {
+  color: red;
+}
+
+body {
+  background-color: skyblue;
+}
+
+
+
 
