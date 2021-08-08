@@ -30,6 +30,12 @@ body {
   background-color: skyblue;
 }
 
+@ screen and (max-width:800px){
+  body{
+    background-color: black;
+    color: white;
+  }
+}
 
 
 
